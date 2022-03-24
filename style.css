@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 20px;
+  background-color: black;
+}
+
+.form-container {
+  border: 10px solid darkviolet;
+}
+
+.form {
+  background-color: wheat;
+}
+
+.form--input {
+  margin: 20px;
+}
+
+.form--marketing {
+  margin-left: 5px;
+}
+
+button {
+  margin: 20px 75px;
+  background-color: darkviolet;
+  color: white;
+}
